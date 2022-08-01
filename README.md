@@ -10,7 +10,7 @@ In this code, we've used OpenCV to look for pedestrians at crosswalks; if one is
 The concept is to put cameras in front of the junctions so that we can identify people as they cross the street in real time and alert the drivers to stop.
 
 Videos that simulate what the cameras will report are attached to the code, but you can just connect a camera and see the detection in real time.
-![](scheme.png)
+![](scheme_.png)
 
 
 Pedestrian detection are widely applied to  intelligent transportation, automotive autonomous driving or driving-assistance systems. 
