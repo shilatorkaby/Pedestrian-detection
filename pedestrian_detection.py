@@ -7,7 +7,7 @@ font = cv2.FONT_HERSHEY_SIMPLEX
 bottomLeftCornerOfText = (10, 300)
 fontScale = 1.5
 fontColor = (255, 255, 255)
-thickness = 1
+thickness = 3
 lineType = 1
 warning = ["warning! pedestrian!", "warning!"]
 
